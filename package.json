@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "csv-parse": "^6.2.1",
+    "express": "^5.2.1",
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "name": "tasks-crud-api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonqxd/tasks-crud-api-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonqxd/tasks-crud-api-node/issues"
+  },
+  "homepage": "https://github.com/andersonqxd/tasks-crud-api-node#readme"
+}
